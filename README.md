@@ -35,3 +35,9 @@ Will ouput:
 {'login': <function login at 0xPOINTER>}
 ```
 For each of the links connected
+
+# Install
+
+``` 
+python3 -m pip install string-routing --user
+```
